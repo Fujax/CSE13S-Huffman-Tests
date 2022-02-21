@@ -2,14 +2,16 @@
 This repository contains multiple C files that are meant to test other C files used in the Huffman coding assignment for CSE13S Winter 2022
 
 # Files required
-Markup : -node.c/h
-         -pq.c/h
-         -stack.c/h
-         -code.c/h
-         -io.c/h
-         -huffman.c/h
-         -encode.c/h
-         -decode.c/h
+```
+node.c/h
+pq.c/h
+stack.c/h
+code.c/h
+io.c/h
+huffman.c/h
+encode.c/h
+decode.c/h
+```
 
 # Running
 Run the following:
