@@ -1,6 +1,7 @@
 # Description
 This repository contains multiple C files that are meant to test other C files used in the Huffman coding assignment for CSE13S Winter 2022
 
+Note: These files are small test cases and do not account for edge and corner cases for this assignment. These files should be used before moving on to the encoder and decoder.
 # Files required
 ```
 node.c/h
@@ -9,8 +10,6 @@ stack.c/h
 code.c/h
 io.c/h
 huffman.c/h
-encode.c/h
-decode.c/h
 ```
 
 # Running
